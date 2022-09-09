@@ -1,4 +1,8 @@
-### Multiclipboard
+Have you ever saved copied something to your clipboard with the intent of using it, then overwrite that copy with another copy fucking up your first copy ... Yes.
+###### Well have i got a program for you.
+
+introducing
+# Multiclipboard
 
 Makes the computer clipboard more flexible, you can save data to a JSON file from your clipboard here with a key to save it and load the data back to your clipboard.
 
